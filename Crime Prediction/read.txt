@@ -1,0 +1,2 @@
+A model for predicting criminal cases that occur in the Jabodetabek area based on the time and location of the incident 
+using the Gradient Boosting Decision Tree algorithm. This folder contains code and other resources used in modeling.
